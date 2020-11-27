@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1050689461929",
+    "firebase_url": "https://symwe-cf43b.firebaseio.com",
+    "project_id": "symwe-cf43b",
+    "storage_bucket": "symwe-cf43b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050689461929:android:049c3bf2a92d95715f13b8",
+        "android_client_info": {
+          "package_name": "com.example.symwe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1050689461929-vn783ql293vjkgn3vfnhf7d9b4le560k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCla-hKH0jx5sT-Ct8EKLBwbPDS_vYXTMA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1050689461929-vn783ql293vjkgn3vfnhf7d9b4le560k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
